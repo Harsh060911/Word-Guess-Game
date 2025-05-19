@@ -1,6 +1,6 @@
 # 🔤 Word Guessor – The 5-Letter Word Challenge in Python 🧠🎯
 
-Welcome to **Word Guessor**, a thrilling word-guessing game built in Python! Test your vocabulary, logic, and intuition as you try to crack a secret 5-letter word in just 6 tries. Inspired by classics like *Wordle*, this game provides real-time feedback on your guesses — and it's all terminal-based!
+Welcome to **Word Guessor**, a thrilling word-guessing game built in Python! Test your vocabulary, logic, and intuition as you try to crack a secret 5-letter word in just 6 tries. This game provides real-time feedback on your guesses — and it's all terminal-based!
 
 ---
 
