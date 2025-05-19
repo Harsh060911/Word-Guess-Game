@@ -36,3 +36,8 @@ The program includes a built-in word list where you can **add your own 5-letter 
 2. Enter a **5-letter English word** each turn.
 3. Read the feedback and adjust your next guess.
 4. Solve it within 6 attempts — or try again!
+
+   ---
+Thanks for reading,  
+Made with love by **Harsh** ❤️
+
