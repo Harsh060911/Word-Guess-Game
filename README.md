@@ -24,8 +24,9 @@ If you don’t receive any message about a particular letter, that means it's **
 📝 **Easily Extendable Word List**  
 The program includes a built-in word list where you can **add your own 5-letter words** to make the game more fun and personalized!
 
-📄 **Want to See the Game in Action?**  
-Check out [`example.txt`](example.txt) for a full gameplay example and better understanding of how the game responds to different guesses.
+## 📸 Demo
+
+![Gameplay Screenshot](game_demo.png)
 
 ---
 
