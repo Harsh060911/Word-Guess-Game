@@ -39,5 +39,5 @@ The program includes a built-in word list where you can **add your own 5-letter 
 
    ---
 Thanks for reading,  
-Made with love by **Harsh** ❤️
+Made with ❤️ by **Harsh**
 
